@@ -1,0 +1,20 @@
+
+.oddnumbers {
+    background-color: rgb(247, 199, 207);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.oddnumbers.thirdele {
+    font-size: 24px;
+}
+
+.secondele {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourthele {
+    background-color: greenyellow;
+    font: bold;
+    font-size: 24px;
+}

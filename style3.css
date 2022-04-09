@@ -1,0 +1,14 @@
+.firstele,
+.secondele {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.firstele {
+    background-color: black;
+    color: white;
+}
+
+.secondele {
+    background-color: yellow;
+}
